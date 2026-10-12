@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <title>La meva primera web a internet!</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; background: #e0f2fe; color: #0369a1; padding: 50px; }
+        h1 { font-size: 3rem; }
+        p { font-size: 1.5rem; }
+    </style>
+</head>
+<body>
+    <h1>Hola món! 🚀</h1>
+    <p>Aquesta és la meva primera pàgina web real, programada per mi i penjada a internet.</p>
+</body>
+</html>
